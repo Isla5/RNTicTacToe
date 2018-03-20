@@ -4,7 +4,7 @@ import GeneralBackground from '../components/generalBackground';
 
 export default class HomeScreen extends Component {
     static navigationOptions = {
-          header: null
+        header: null
     }
 
     buttonProps = [
